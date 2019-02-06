@@ -3,15 +3,13 @@
 
 [![python-image]][python-url] [![flask-image]][flask-url] 
 
+<img src="flask.png" width="400"  width="300">
 
 ## What is this?
 
 파이썬 웹프레임워크 Flask로 커뮤니티를 구현해봤습니다.
 
 + Flask of Python : https://github.com/hhkwon/flask_playground
-
-
-<img src="flask.png" width="400"  width="300">
 
 <br />
 
